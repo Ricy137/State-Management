@@ -1,2 +1,3 @@
 # Data-Management
-Please download or clone this repo and run the html to see content
+1. Download the zip file/clone the repo.
+2. run `http-server` in the root
